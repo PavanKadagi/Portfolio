@@ -32,7 +32,7 @@ export default function Footer() {
                     <ul   >
                             <li ><i class="fad fa-user-check"></i> <span className="Contact">Contact</span> </li>
                             <li ><a href="#"><User className="User"/> Name : Pavan Kadagi </a></li>
-                            <li><a  href="mailto:pavankadagi@gmail.com"  target='_blank'><Gmail className="User"/> Email : pavankadagi@gmail@gmail.com</a></li>
+                            <li><a  href="mailto:pavankadagi@gmail.com"  target='_blank'><Gmail className="User"/> Email : pavankadagi@gmail.com</a></li>
                             <li><a  href="tel:+919156260067"  target='_blank'><Phone className="User" /> Contact : +91-9156260067</a></li>
                             <li><a  href="#"><Location class="User" /> Address : Pune,maharashtra, India</a></li>
                     </ul>
