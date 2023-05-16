@@ -7,7 +7,8 @@ import DashBoard_2 from "../src/Images/DashBoard_2.png";
 import LandingPage from "../src/Images/Landing Page.png";
 import Profile from "../src/Images/Profile.png";
 import DashBoard from "../src/Images/DashBoard.png";
-import OnlineQuiz from "../src/Images/Online_Quiz.png"
+import OnlineQuiz from "../src/Images/Online_Quiz.png";
+import Mobile_Shopping from "../src/Images/Mobile_Shopping.png"
 
 let data = [
     {
@@ -20,6 +21,14 @@ let data = [
     },
     {
         id:2,
+        title: "Mobile Shopping",
+        image:Mobile_Shopping,
+        description:"",
+        GitHub:"https://github.com/PavanKadagi/Mobile-Shopping",
+        Hosted:"https://mobile-shopping.onrender.com/"
+    },
+    {
+        id:3,
         title: "IMDB Clone",
         image:IMDBClone,
         description:"",
@@ -27,7 +36,7 @@ let data = [
         Hosted:"https://csb-bf924l.netlify.app/"
     },
     {
-        id:3,
+        id:4,
         title: "MoviesList",
         image:MoviesList,
         description:"",
@@ -35,7 +44,7 @@ let data = [
         Hosted:"https://m-5hww.onrender.com/ "
     },
     {
-        id:4,
+        id:5,
         title: "Quiz App",
         image:QuizApp,
         description:"",
@@ -43,7 +52,7 @@ let data = [
         Hosted:"https://csb-d9ws4f.netlify.app/"
     },
 {
-    id:5,
+    id:6,
     title: "Registration Form",
     image:RegistrationForm,
     description:"",
@@ -51,7 +60,7 @@ let data = [
     Hosted:"https://csb-1k5lob.netlify.app/"
 },
 {
-    id:6,
+    id:7,
     title: "Technical Document",
     image:TechnicalDocumentation,
     description:"",
@@ -59,7 +68,7 @@ let data = [
     Hosted:"https://csb-dmx7bs.netlify.app/"
 },
 {
-    id:7,
+    id:8,
     title: "DashBoard_2",
     image:DashBoard_2,
     description:"",
@@ -67,7 +76,7 @@ let data = [
     Hosted:"https://csb-nyi460.netlify.app/"
 },
 {
-    id:8,
+    id:9,
     title: "Landing Page",
     image:LandingPage,
     description:"",
@@ -75,7 +84,7 @@ let data = [
     Hosted:"https://r90nmt.csb.app/"
 },
 {
-    id:9,
+    id:10,
     title: "Profile",
     image:Profile,
     description:"",
@@ -83,7 +92,7 @@ let data = [
     Hosted:"https://csb-3khwyq.netlify.app/"
 },
 {
-    id:10,
+    id:11,
     title: "DashBoard",
     image:DashBoard,
     description:"",
